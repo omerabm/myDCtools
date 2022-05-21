@@ -13,7 +13,7 @@
 0,258,RHOSP13-DIRECTOR
 0,260,UNDERCLOUD.rhosp13.omer.lab
 0,265,CEPH01.rhosp10.omer.lab
-0,266,CEPH02.rhosp10.omer.lab
+1,266,CEPH02.rhosp10.omer.lab
 0,267,CEPH03.rhosp10.omer.lab
 0,268,RHOS10-Director
 0,269,RHOS10-CTRL01
